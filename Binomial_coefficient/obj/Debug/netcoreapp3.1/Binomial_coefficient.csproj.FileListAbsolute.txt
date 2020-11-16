@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Binomial_coefficient.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Binomial_coefficient.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Binomial_coefficient.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Binomial_coefficient.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Binomial_coefficient.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Binomial_coefficient.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.genruntimeconfig.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Binomial_coefficient.csprojAssemblyReference.cache

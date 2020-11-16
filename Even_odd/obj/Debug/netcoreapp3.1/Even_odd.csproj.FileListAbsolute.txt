@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\bin\Debug\netcoreapp3.1\Even_odd.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Even_odd\obj\Debug\netcoreapp3.1\Even_odd.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\bin\Debug\netcoreapp3.1\Greatest_common_divisor.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\bin\Debug\netcoreapp3.1\Greatest_common_divisor.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\bin\Debug\netcoreapp3.1\Greatest_common_divisor.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\bin\Debug\netcoreapp3.1\Greatest_common_divisor.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\bin\Debug\netcoreapp3.1\Greatest_common_divisor.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\bin\Debug\netcoreapp3.1\Greatest_common_divisor.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.genruntimeconfig.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Greatest_common_divisor\obj\Debug\netcoreapp3.1\Greatest_common_divisor.csprojAssemblyReference.cache

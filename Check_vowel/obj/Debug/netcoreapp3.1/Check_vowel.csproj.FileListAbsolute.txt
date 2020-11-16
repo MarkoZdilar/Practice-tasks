@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\bin\Debug\netcoreapp3.1\Check_vowel.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\bin\Debug\netcoreapp3.1\Check_vowel.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\bin\Debug\netcoreapp3.1\Check_vowel.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\bin\Debug\netcoreapp3.1\Check_vowel.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\bin\Debug\netcoreapp3.1\Check_vowel.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\bin\Debug\netcoreapp3.1\Check_vowel.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Check_vowel\obj\Debug\netcoreapp3.1\Check_vowel.genruntimeconfig.cache

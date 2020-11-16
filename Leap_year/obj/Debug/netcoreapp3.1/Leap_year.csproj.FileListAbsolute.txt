@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\bin\Debug\netcoreapp3.1\Leap_year.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\bin\Debug\netcoreapp3.1\Leap_year.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\bin\Debug\netcoreapp3.1\Leap_year.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\bin\Debug\netcoreapp3.1\Leap_year.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\bin\Debug\netcoreapp3.1\Leap_year.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\bin\Debug\netcoreapp3.1\Leap_year.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Leap_year\obj\Debug\netcoreapp3.1\Leap_year.genruntimeconfig.cache

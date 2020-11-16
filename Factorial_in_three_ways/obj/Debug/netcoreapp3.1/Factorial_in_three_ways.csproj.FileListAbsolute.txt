@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\bin\Debug\netcoreapp3.1\Factorial_in_three_ways.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\bin\Debug\netcoreapp3.1\Factorial_in_three_ways.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\bin\Debug\netcoreapp3.1\Factorial_in_three_ways.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\bin\Debug\netcoreapp3.1\Factorial_in_three_ways.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\bin\Debug\netcoreapp3.1\Factorial_in_three_ways.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\bin\Debug\netcoreapp3.1\Factorial_in_three_ways.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Factorial_in_three_ways\obj\Debug\netcoreapp3.1\Factorial_in_three_ways.genruntimeconfig.cache

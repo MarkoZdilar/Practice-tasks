@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\ZadaciZaVjezbu.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\ZadaciZaVjezbu.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\ZadaciZaVjezbu.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\ZadaciZaVjezbu.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\ZadaciZaVjezbu.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\ZadaciZaVjezbu.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\ZadaciZaVjezbu.genruntimeconfig.cache

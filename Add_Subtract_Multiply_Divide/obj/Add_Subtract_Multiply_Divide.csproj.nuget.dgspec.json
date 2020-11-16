@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marko Zdilar\\Desktop\\Rijeseni_Zadaci\\ZadaciZaVjezbu\\Add_Subtract_Multiply_Divide\\Add_Subtract_Multiply_Divide.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marko Zdilar\\Desktop\\Rijeseni_Zadaci\\ZadaciZaVjezbu\\Add_Subtract_Multiply_Divide\\Add_Subtract_Multiply_Divide.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marko Zdilar\\Desktop\\Rijeseni_Zadaci\\ZadaciZaVjezbu\\Add_Subtract_Multiply_Divide\\Add_Subtract_Multiply_Divide.csproj",
+        "projectName": "Add_Subtract_Multiply_Divide",
+        "projectPath": "C:\\Users\\Marko Zdilar\\Desktop\\Rijeseni_Zadaci\\ZadaciZaVjezbu\\Add_Subtract_Multiply_Divide\\Add_Subtract_Multiply_Divide.csproj",
+        "packagesPath": "C:\\Users\\Marko Zdilar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marko Zdilar\\Desktop\\Rijeseni_Zadaci\\ZadaciZaVjezbu\\Add_Subtract_Multiply_Divide\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marko Zdilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\Addition_of_two_numbers.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\Addition_of_two_numbers.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\Addition_of_two_numbers.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\Addition_of_two_numbers.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\Addition_of_two_numbers.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\bin\Debug\netcoreapp3.1\Addition_of_two_numbers.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\Addition_of_two_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\Addition_of_two_numbers.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\Addition_of_two_numbers.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\Addition_of_two_numbers.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\Addition_of_two_numbers.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\ZadaciZaVjezbu\obj\Debug\netcoreapp3.1\Addition_of_two_numbers.genruntimeconfig.cache

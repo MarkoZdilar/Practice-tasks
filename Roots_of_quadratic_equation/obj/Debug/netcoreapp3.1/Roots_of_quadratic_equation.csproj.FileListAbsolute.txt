@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\bin\Debug\netcoreapp3.1\Roots_of_quadratic_equation.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\bin\Debug\netcoreapp3.1\Roots_of_quadratic_equation.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\bin\Debug\netcoreapp3.1\Roots_of_quadratic_equation.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\bin\Debug\netcoreapp3.1\Roots_of_quadratic_equation.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\bin\Debug\netcoreapp3.1\Roots_of_quadratic_equation.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\bin\Debug\netcoreapp3.1\Roots_of_quadratic_equation.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Roots_of_quadratic_equation\obj\Debug\netcoreapp3.1\Roots_of_quadratic_equation.genruntimeconfig.cache

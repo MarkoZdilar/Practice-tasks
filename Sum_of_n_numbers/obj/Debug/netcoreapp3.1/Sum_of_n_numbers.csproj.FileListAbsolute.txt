@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\bin\Debug\netcoreapp3.1\Sum_of_n_numbers.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\bin\Debug\netcoreapp3.1\Sum_of_n_numbers.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\bin\Debug\netcoreapp3.1\Sum_of_n_numbers.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\bin\Debug\netcoreapp3.1\Sum_of_n_numbers.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\bin\Debug\netcoreapp3.1\Sum_of_n_numbers.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\bin\Debug\netcoreapp3.1\Sum_of_n_numbers.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_n_numbers\obj\Debug\netcoreapp3.1\Sum_of_n_numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\bin\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\bin\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\bin\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\bin\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\bin\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\bin\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Add_Subtract_Multiply_Divide\obj\Debug\netcoreapp3.1\Add_Subtract_Multiply_Divide.genruntimeconfig.cache

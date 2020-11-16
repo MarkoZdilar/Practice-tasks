@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Permutations_and_combinations.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Permutations_and_combinations.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Permutations_and_combinations.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Permutations_and_combinations.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Permutations_and_combinations.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\bin\Debug\netcoreapp3.1\Permutations_and_combinations.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Binomial_coefficient\obj\Debug\netcoreapp3.1\Permutations_and_combinations.genruntimeconfig.cache

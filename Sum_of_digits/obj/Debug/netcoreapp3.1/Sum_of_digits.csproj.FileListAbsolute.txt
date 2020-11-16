@@ -1,0 +1,13 @@
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.exe
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.deps.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.runtimeconfig.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.runtimeconfig.dev.json
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\bin\Debug\netcoreapp3.1\Sum_of_digits.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.csprojAssemblyReference.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.csproj.CoreCompileInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.AssemblyInfoInputs.cache
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.AssemblyInfo.cs
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.dll
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.pdb
+C:\Users\Marko Zdilar\Desktop\Rijeseni_Zadaci\ZadaciZaVjezbu\Sum_of_digits\obj\Debug\netcoreapp3.1\Sum_of_digits.genruntimeconfig.cache
